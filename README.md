@@ -6,7 +6,7 @@ police shooting databases as to facilitate predictions and data visualizations o
 ## Installation
 
 1. Clone the repository
-2. ``tar xvf data.tgz``
+2. ``tar xzf data.tgz``
 3. ``pip install -r requirements.txt``
 4. Open Jupyter notebook (i.e., ``jupyter notebook combine_data.ipynb``)
 5. Run notebook and all data will be created on the fly.
