@@ -15,6 +15,8 @@ police shooting databases as to facilitate predictions and data visualizations o
 this geocoding (otherwise the geocoded data is stored in ``derived_datasets``) then
 you will need to have the [googlemaps](https://github.com/googlemaps/google-maps-services-python) python package installed along with a valid Google Maps API (follow the instructions in the link). Lastly, note that you will have to install ``googlemaps`` manually as it is not included in the ``requirements.txt`` file.
 
+## Data Sets
+
 The datasets to be created are as follows (click link to download):
 
 1. [Census data with various county-level features (2014)](https://raw.githubusercontent.com/jellis18/police_shooting_data/master/derived_datasets/county_level_census_data.csv)
