@@ -1,7 +1,7 @@
 # Police Shooting Data With Census and Crime Data Covariates
 
 The goal of this repository is to combine as much information at the county level to accompany 
-police shooting databases as to facilitate predictions and data visualizations of police shooting data.
+police shooting databases as to facilitate predictions and data visualizations of police shooting data. For more details on the data collection, cleaning, and processing see the Jupyter Notebook [here](https://github.com/jellis18/police_shooting_data/blob/master/combine_data.ipynb)
 
 ## Installation
 
