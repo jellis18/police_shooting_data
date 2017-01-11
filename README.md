@@ -1,7 +1,7 @@
 # Police Shooting Data With Census and Crime Data Covariates
 
 The goal of this repository is to combine as much information at the county level to accompany 
-police shooting databases as to facilitate predictions and data visualizations of police shooting data. For more details on the data collection, cleaning, and processing see the Jupyter Notebook [here](https://github.com/jellis18/police_shooting_data/blob/master/combine_data.ipynb).
+police shooting databases as to facilitate predictions and data visualizations of police shooting data. The shooting data is from the [Washington Post](https://www.washingtonpost.com/graphics/national/police-shootings/) and the [Mapping Police Violence](https://mappingpoliceviolence.org) database. The covariate data comes from various [US Census](https://www.census.gov) and the [FBI Uniform Crime Reporting](https://ucr.fbi.gov) database. For more details on the data collection, cleaning, and processing see the Jupyter Notebook [here](https://github.com/jellis18/police_shooting_data/blob/master/combine_data.ipynb).
 
 ## Installation
 
