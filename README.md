@@ -29,3 +29,7 @@ The datasets to be created are as follows (click link to download):
 Where possible intermediate datasets are downloaded directly from source. Otherwise they are stored in the ``datasets`` directory. 
 
 Furthermore, all derived datasets will be stored in ``derived_datasets``.
+
+## Comments, Questions, Issues
+
+If you have any questions or comments or want to suggest changes open a new [issue](https://github.com/jellis18/police_shooting_data/issues) and let me know!
